@@ -1,6 +1,6 @@
-# Glints Todo
+# Glints Todo App
 
-> Prirotize your tasks with Something
+> Prioritize your tasks with Glints Todo aPP
 
 A simple todo app with [Glints](https://glints.id) color scheme.
 
